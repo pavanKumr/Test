@@ -1,0 +1,24 @@
+Type of application based upon the business functionality usages (banking, gaming, social or business)
+Target audience type (consumer, enterprise, education)
+Distribution channel which is used to spread the application (e.g. Apple App Store, Google play, direct distribution)
+The most fundamental test scenarios in the functional testing can be considered as :
+
+To validate whether all the required mandatory fields are working as required.
+To validate that the mandatory fields are displayed in the screen in a distinctive way than the non-mandatory fields.
+To validate whether the application works as per as requirement whenever the application starts/stops.
+To validate whether the application goes into minimized mode whenever there is an incoming phone call. In order to validate the same we need to use a second phone, to call the device.
+To validate whether the phone is able to store, process and receive SMS whenever the app is running. In order to validate the same we need to use a second phone to send sms to the device which is being tested and where the application under test is currently running.
+To validate that the device is able to perform required multitasking requirements whenever it is necessary to do so.
+To validate that the application allows necessary social network options such as sharing, posting and navigation etc.
+To validate that the application supports any payment gateway transaction such as Visa, Mastercard, Paypal etc as required by the application.
+To validate that the page scrolling scenarios are being enabled in the application as necessary.
+To validate that the navigation between relevant modules in the application are as per the requirement.
+To validate that the truncation errors are absolutely to an affordable limit.
+To validate that the user receives an appropriate error message like “Network error. Please try after some time” whenever there is any network error.
+To validate that the installed application enables other applications to perform satisfactorily, and it does not eat into the memory of the other applications.
+To validate that the application resumes at the last operation in case of a hard reboot or system crash.
+To validate whether the installation of the application can be done smoothly provided the user has the necessary resources and it does not lead to any significant errors.
+To validate that the application performs auto start facility according to the requirements.
+To validate whether the application performs according to the requirement in all versions of Mobile that is 2g, 3g and 4g.
+To perform Regression Testing to uncover new software bugs in existing areas of a system after changes have been made to them. Also rerun previously performed tests to determine that the program behavior has not changed due to the changes.
+To validate whether the application provides an available user guide for those who are not familiar to the app
